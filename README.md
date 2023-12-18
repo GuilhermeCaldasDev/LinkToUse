@@ -1,2 +1,2 @@
 # LinkToUse
-Página para redes sociais que agrupam todos os links redicionadores de sua preferência
+Criei uma página com html e css, para gerir os links de uma loja ou de uma persona.
